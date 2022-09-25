@@ -6,5 +6,5 @@ while(n <= 10){
  console.log(n*7);
  console.log(n*8);
  console.log(n*9);
- n = n + 1;
+ n++;
 }
