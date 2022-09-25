@@ -1,2 +1,6 @@
-Hiiieeeeeeeeeeee...................
-Good Morning...............
+let n = 1;
+
+while(n <= 10){
+ console.log(n*5);
+ n = n + 1;
+}
