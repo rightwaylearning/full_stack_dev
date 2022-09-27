@@ -1,1 +1,10 @@
-Hiiieeeeeeeeeeee...................
+let n = 1;
+
+while(n <= 10){
+ console.log(n*5);
+ console.log(n*6);
+ console.log(n*7);
+ console.log(n*8);
+ console.log(n*9);
+ n++;
+}
